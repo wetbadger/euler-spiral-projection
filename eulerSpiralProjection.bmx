@@ -11,7 +11,7 @@ Const tStepsPerDraw = 5
 Const stripWidth# = 1/N
 Const sStep# = 10/screenSize
 Const inputFile$ = "earth.jpg"
-Const outputFile$ = "eulerSpiralProjection.png"
+Const outputFile$ = "eulerSpiralProjectionThin.png"
 
 Global earthImage:TPixmap = LoadPixmap(inputFile)
 Global transformedEarthImage:TPixmap = CreatePixmap(screenSize, screenSize, PF_RGBA8888)
