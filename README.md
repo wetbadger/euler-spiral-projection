@@ -3,5 +3,3 @@ See https://youtu.be/D3tdW9l1690 for a description. Mathmatical details at https
 ![Euler spiral projection](https://github.com/RozaePareza/euler-spiral-projection/raw/master/eulerSpiralProjection.png)
 
 ![thinner Euler spiral projection](https://github.com/RozaePareza/euler-spiral-projection/raw/master/eulerSpiralProjectionThin.png)
-
-I might port this to Python and clean it up this weekend if there's any interest.
